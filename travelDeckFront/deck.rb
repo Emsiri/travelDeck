@@ -1,9 +1,9 @@
 require 'squib'
 
 data = Squib.csv file: 'testcsv.csv'
-layouts = ['economy.yml', 'imageLayout.yml']
+layouts = ['layout.yml', 'imageLayout.yml']
 
-Squib::Deck.new cards: data['name'].size, layout: layouts do
+Squib::Deck.new cards: data['name'].size, width: '2.75in', height: '4.75in', layout: layouts do
   background color: 'white'
   rect layout: 'cut'
   rect layout: 'safe'
