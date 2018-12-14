@@ -15,3 +15,15 @@ help:
   y: 850
   height: 72
   width: 72
+
+number:
+  x: 188.25
+  y: 675
+  height: 72
+  width: 72
+
+price:
+  x: 564.75
+  y: 675
+  height: 72
+  width: 72
