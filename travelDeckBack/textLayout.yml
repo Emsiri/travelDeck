@@ -1,0 +1,11 @@
+address:
+  x: 137.5
+  y: 250
+description:
+  x: 100
+  y: 700
+  width: 675
+  height: 100
+  ellipsize: false
+  wrap: true  
+  font: 'Arial 8'

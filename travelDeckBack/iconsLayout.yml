@@ -1,0 +1,15 @@
+favorite:
+  x: 80
+  y: 350
+  height: 72
+  width: 72
+help:
+  x: 80
+  y: 450
+  height: 72
+  width: 72
+info:
+  x: 80
+  y: 250
+  height: 72
+  width: 72
