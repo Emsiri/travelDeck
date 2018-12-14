@@ -1,11 +1,10 @@
 image:
-  x: 75
+  x: 37.5
   y: 137.5
-  width: 675
-  height: 1200
-border:
-  x: 38
-  y: 38
   width: 750
-  height: 1050
-  radius: 25
+  height: 1250
+border:
+  x: 37.5
+  y: 37.5
+  width: 750
+  height: 1350

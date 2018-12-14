@@ -83,3 +83,9 @@ safe:
   height: 1275
   radius: 16
   dash: 3 3
+
+border:
+  x: 37.5
+  y: 37.5
+  width: 750
+  height: 1350  

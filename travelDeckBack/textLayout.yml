@@ -2,9 +2,9 @@ address:
   x: 137.5
   y: 250
 description:
-  x: 100
+  x: 137.5
   y: 700
-  width: 675
+  width: 600
   height: 100
   ellipsize: false
   wrap: true  
