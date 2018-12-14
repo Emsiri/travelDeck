@@ -27,3 +27,15 @@ price:
   y: 675
   height: 72
   width: 72
+
+wifi:
+  x: 304.5
+  y: 675
+  height: 72
+  width: 72
+
+trophy:
+  x: 448.5
+  y: 675
+  height: 72
+  width: 72

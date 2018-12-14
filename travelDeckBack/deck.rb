@@ -15,6 +15,8 @@ Squib::Deck.new cards: data['name'].size, width: '2.75in', height: '4.75in', lay
   svg file: './icons/rating_icon.svg', layout: 'help'
   svg file: './icons/card_number_icon.svg', layout: 'number'
   svg file: './icons/price_icon.svg', layout: 'price'
+  svg file: './icons/wifi_icon.svg', layout: 'wifi'
+  svg file: './icons/trophy_icon.svg', layout: 'trophy'
   line x1: 150, x2: 675, y1: 335, y2: 335, stroke_width: 4, cap: 'round'
   line x1: 150, x2: 675, y1: 635, y2: 635, stroke_width: 4, cap: 'round'
   line x1: 150, x2: 675, y1: 935, y2: 935, stroke_width: 4, cap: 'round'
