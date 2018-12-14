@@ -1,11 +1,18 @@
 address:
-  x: 137.5
-  y: 250
-description:
-  x: 137.5
-  y: 700
-  width: 600
+  y: 325
+  width: 825
   height: 100
+  valign: middle
+  align: center
+  font: 'Perpetua 6'
+  
+description:
+  x: 125
+  y: 1000
+  valign: middle
+  align: center
+  width: 550
+  height: 275
   ellipsize: false
   wrap: true  
-  font: 'Arial 8'
+  font: 'Perpetua 6'

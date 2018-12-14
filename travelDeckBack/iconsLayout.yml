@@ -1,15 +1,17 @@
-favorite:
-  x: 120
-  y: 350
-  height: 72
-  width: 72
-help:
-  x: 120
-  y: 450
-  height: 72
-  width: 72
 info:
-  x: 120
+  x: 376.5
   y: 250
+  height: 72
+  width: 72
+
+favorite:
+  x: 376.5
+  y: 550
+  height: 72
+  width: 72
+
+help:
+  x: 376.5
+  y: 850
   height: 72
   width: 72
